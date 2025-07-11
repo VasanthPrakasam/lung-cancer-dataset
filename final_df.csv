@@ -1,0 +1,16 @@
+,age,gender,country,cancer_stage,family_history,smoking_status,bmi,cholesterol_level,hypertension,asthma,cirrhosis,other_cancer,treatment_type,survived,treatment_duration
+age,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0
+gender,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+country,1,0,1,0,0,0,1,1,0,0,0,0,1,0,1
+cancer_stage,1,0,0,1,0,1,1,1,1,1,0,0,1,0,0
+family_history,1,0,0,0,1,0,1,1,0,0,0,0,1,0,1
+smoking_status,1,1,0,1,0,1,1,1,0,0,0,0,1,0,1
+bmi,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0
+cholesterol_level,0,1,1,1,1,1,0,1,1,1,1,1,0,1,0
+hypertension,1,0,0,1,0,0,1,1,1,1,1,1,0,0,0
+asthma,1,0,0,1,0,0,1,1,1,1,1,1,1,0,1
+cirrhosis,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1
+other_cancer,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1
+treatment_type,0,0,1,1,1,1,0,0,0,1,1,1,1,1,0
+survived,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1
+treatment_duration,0,0,1,0,1,1,0,0,0,1,1,1,0,1,1
